@@ -174,6 +174,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Content Research Writer](./content-research-writer/) - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
 - [family-history-research](https://github.com/emaynard/claude-family-history-research-skill) - Provides assistance with planning family history and genealogy research projects.
 - [Meeting Insights Analyzer](./meeting-insights-analyzer/) - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
+- [negaresh](https://github.com/Aricept094/negaresh) - Write, copyedit, proofread and naturalize Persian (Farsi) text with 167 rules, each citing the Persian grammar or style book and page it comes from; includes an optional MCP server for offline spelling and spacing checks. *By [@Aricept094](https://github.com/Aricept094)*
 - [NotebookLM Integration](https://github.com/PleasePrompto/notebooklm-skill) - Lets Claude Code chat directly with NotebookLM for source-grounded answers based exclusively on uploaded documents. *By [@PleasePrompto](https://github.com/PleasePrompto)*
 - [Twitter Algorithm Optimizer](./twitter-algorithm-optimizer/) - Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit tweets to improve engagement and visibility.
 
